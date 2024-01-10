@@ -1,0 +1,28 @@
+.form-la{
+ 
+   text-align: center;
+}
+label{
+   margin-left:-35em;
+
+}
+div{
+   margin-top: 2em;
+}
+input{
+   width: 50em;
+   height: 2em;
+   padding: 1em;
+   border-radius: 2em;
+}
+textarea{
+   border-radius: 1em;
+   width: 50em;
+   margin-top: 2em;
+}
+.send{
+   padding-bottom: 2em;
+   color: white;
+   background-color: blue;
+   
+}
